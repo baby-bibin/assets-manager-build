@@ -1,0 +1,902 @@
+[
+  {
+    "account": "Credit Card: Best Buy",
+    "date": "2025-04-18T00:00:00",
+    "description": "Refund",
+    "category": "Uncategorized Transactions",
+    "base": 69,
+    "month": "April",
+    "week": "Week 3"
+  },
+  {
+    "account": "Checking: Local Bakery",
+    "date": "2025-03-29T00:00:00",
+    "description": "Coffee Shop",
+    "category": "Dining",
+    "base": 91,
+    "month": "March",
+    "week": "Week 5"
+  },
+  {
+    "account": "Savings: Cashback",
+    "date": "2025-04-21T00:00:00",
+    "description": "Savings Interest",
+    "category": "Income",
+    "base": 456,
+    "month": "April",
+    "week": "Week 3"
+  },
+  {
+    "account": "Credit Card: Netflix",
+    "date": "2025-03-15T00:00:00",
+    "description": "Internet Bill",
+    "category": "Utilities",
+    "base": 78,
+    "month": "March",
+    "week": "Week 3"
+  },
+  {
+    "account": "Credit Card: Target",
+    "date": "2025-03-08T00:00:00",
+    "description": "Grocery",
+    "category": "Uncategorized Transactions",
+    "base": 96,
+    "month": "March",
+    "week": "Week 2"
+  },
+  {
+    "account": "Credit Card: Netflix",
+    "date": "2025-04-11T00:00:00",
+    "description": "Internet Bill",
+    "category": "Utilities",
+    "base": 71,
+    "month": "April",
+    "week": "Week 2"
+  },
+  {
+    "account": "Credit Card: Starbucks",
+    "date": "2025-03-04T00:00:00",
+    "description": "Coffee Shop",
+    "category": "Dining",
+    "base": 67,
+    "month": "March",
+    "week": "Week 1"
+  },
+  {
+    "account": "Credit Card: Best Buy",
+    "date": "2025-03-18T00:00:00",
+    "description": "Refund",
+    "category": "Uncategorized Transactions",
+    "base": 46,
+    "month": "March",
+    "week": "Week 3"
+  },
+  {
+    "account": "Checking: Electricity Bill",
+    "date": "2025-04-18T00:00:00",
+    "description": "Internet Bill",
+    "category": "Utilities",
+    "base": 9,
+    "month": "April",
+    "week": "Week 3"
+  },
+  {
+    "account": "Credit Card: Best Buy",
+    "date": "2025-04-12T00:00:00",
+    "description": "Refund",
+    "category": "Uncategorized Transactions",
+    "base": 109,
+    "month": "April",
+    "week": "Week 2"
+  },
+  {
+    "account": "Checking: Local Bakery",
+    "date": "2025-03-05T00:00:00",
+    "description": "Restaurant",
+    "category": "Dining",
+    "base": 13,
+    "month": "March",
+    "week": "Week 1"
+  },
+  {
+    "account": "Credit Card: Target",
+    "date": "2025-04-01T00:00:00",
+    "description": "Miscellaneous",
+    "category": "Uncategorized Transactions",
+    "base": 95,
+    "month": "April",
+    "week": "Week 1"
+  },
+  {
+    "account": "Savings: Interest Credit",
+    "date": "2025-04-12T00:00:00",
+    "description": "Cashback",
+    "category": "Income",
+    "base": 218,
+    "month": "April",
+    "week": "Week 2"
+  },
+  {
+    "account": "Checking: Local Bakery",
+    "date": "2025-03-18T00:00:00",
+    "description": "Food Delivery",
+    "category": "Dining",
+    "base": 89,
+    "month": "March",
+    "week": "Week 3"
+  },
+  {
+    "account": "Credit Card: Best Buy",
+    "date": "2025-03-11T00:00:00",
+    "description": "Grocery",
+    "category": "Uncategorized Transactions",
+    "base": 50,
+    "month": "March",
+    "week": "Week 2"
+  },
+  {
+    "account": "Checking: Amazon Purchase",
+    "date": "2025-04-14T00:00:00",
+    "description": "Refund",
+    "category": "Uncategorized Transactions",
+    "base": 105,
+    "month": "April",
+    "week": "Week 2"
+  },
+  {
+    "account": "Checking: Electricity Bill",
+    "date": "2025-03-23T00:00:00",
+    "description": "Electricity Bill",
+    "category": "Utilities",
+    "base": 5,
+    "month": "March",
+    "week": "Week 4"
+  },
+  {
+    "account": "Checking: Amazon Purchase",
+    "date": "2025-03-10T00:00:00",
+    "description": "Grocery",
+    "category": "Uncategorized Transactions",
+    "base": 82,
+    "month": "March",
+    "week": "Week 2"
+  },
+  {
+    "account": "Credit Card: Spotify",
+    "date": "2025-03-06T00:00:00",
+    "description": "Mobile Recharge",
+    "category": "Utilities",
+    "base": 29,
+    "month": "March",
+    "week": "Week 1"
+  },
+  {
+    "account": "Checking: Electricity Bill",
+    "date": "2025-04-04T00:00:00",
+    "description": "Internet Bill",
+    "category": "Utilities",
+    "base": 49,
+    "month": "April",
+    "week": "Week 1"
+  },
+  {
+    "account": "Savings: Interest Credit",
+    "date": "2025-03-26T00:00:00",
+    "description": "Savings Interest",
+    "category": "Income",
+    "base": 180,
+    "month": "March",
+    "week": "Week 4"
+  },
+  {
+    "account": "Savings: Interest Credit",
+    "date": "2025-03-10T00:00:00",
+    "description": "Bonus",
+    "category": "Income",
+    "base": 234,
+    "month": "March",
+    "week": "Week 2"
+  },
+  {
+    "account": "Checking: Local Bakery",
+    "date": "2025-04-15T00:00:00",
+    "description": "Restaurant",
+    "category": "Dining",
+    "base": 116,
+    "month": "April",
+    "week": "Week 3"
+  },
+  {
+    "account": "Savings: Interest Credit",
+    "date": "2025-04-16T00:00:00",
+    "description": "Bonus",
+    "category": "Income",
+    "base": 494,
+    "month": "April",
+    "week": "Week 3"
+  },
+  {
+    "account": "Credit Card: Best Buy",
+    "date": "2025-03-04T00:00:00",
+    "description": "Miscellaneous",
+    "category": "Uncategorized Transactions",
+    "base": 40,
+    "month": "March",
+    "week": "Week 1"
+  },
+  {
+    "account": "Credit Card: Starbucks",
+    "date": "2025-04-24T00:00:00",
+    "description": "Food Delivery",
+    "category": "Dining",
+    "base": 73,
+    "month": "April",
+    "week": "Week 4"
+  },
+  {
+    "account": "Savings: Interest Credit",
+    "date": "2025-04-25T00:00:00",
+    "description": "Cashback",
+    "category": "Income",
+    "base": 237,
+    "month": "April",
+    "week": "Week 4"
+  },
+  {
+    "account": "Credit Card: Target",
+    "date": "2025-04-30T00:00:00",
+    "description": "Miscellaneous",
+    "category": "Uncategorized Transactions",
+    "base": 117,
+    "month": "April",
+    "week": "Week 5"
+  },
+  {
+    "account": "Credit Card: Spotify",
+    "date": "2025-04-11T00:00:00",
+    "description": "Internet Bill",
+    "category": "Utilities",
+    "base": 76,
+    "month": "April",
+    "week": "Week 2"
+  },
+  {
+    "account": "Credit Card: Netflix",
+    "date": "2025-03-26T00:00:00",
+    "description": "Internet Bill",
+    "category": "Utilities",
+    "base": 26,
+    "month": "March",
+    "week": "Week 4"
+  },
+  {
+    "account": "Savings: Bonus Credit",
+    "date": "2025-04-15T00:00:00",
+    "description": "Salary",
+    "category": "Income",
+    "base": 141,
+    "month": "April",
+    "week": "Week 3"
+  },
+  {
+    "account": "Credit Card: Best Buy",
+    "date": "2025-03-07T00:00:00",
+    "description": "Online Purchase",
+    "category": "Uncategorized Transactions",
+    "base": 30,
+    "month": "March",
+    "week": "Week 1"
+  },
+  {
+    "account": "Checking: Uber Eats",
+    "date": "2025-04-28T00:00:00",
+    "description": "Food Delivery",
+    "category": "Dining",
+    "base": 74,
+    "month": "April",
+    "week": "Week 4"
+  },
+  {
+    "account": "Savings: Cashback",
+    "date": "2025-04-21T00:00:00",
+    "description": "Bonus",
+    "category": "Income",
+    "base": 344,
+    "month": "April",
+    "week": "Week 3"
+  },
+  {
+    "account": "Credit Card: Spotify",
+    "date": "2025-04-22T00:00:00",
+    "description": "Internet Bill",
+    "category": "Utilities",
+    "base": 73,
+    "month": "April",
+    "week": "Week 4"
+  },
+  {
+    "account": "Checking: Water Bill",
+    "date": "2025-04-23T00:00:00",
+    "description": "Water Bill",
+    "category": "Utilities",
+    "base": 25,
+    "month": "April",
+    "week": "Week 4"
+  },
+  {
+    "account": "Checking: Electricity Bill",
+    "date": "2025-03-04T00:00:00",
+    "description": "Internet Bill",
+    "category": "Utilities",
+    "base": 112,
+    "month": "March",
+    "week": "Week 1"
+  },
+  {
+    "account": "Credit Card: Best Buy",
+    "date": "2025-04-19T00:00:00",
+    "description": "Grocery",
+    "category": "Uncategorized Transactions",
+    "base": 33,
+    "month": "April",
+    "week": "Week 3"
+  },
+  {
+    "account": "Savings: Cashback",
+    "date": "2025-04-16T00:00:00",
+    "description": "Bonus",
+    "category": "Income",
+    "base": 80,
+    "month": "April",
+    "week": "Week 3"
+  },
+  {
+    "account": "Credit Card: Starbucks",
+    "date": "2025-04-05T00:00:00",
+    "description": "Bakery",
+    "category": "Dining",
+    "base": 54,
+    "month": "April",
+    "week": "Week 1"
+  },
+  {
+    "account": "Checking: Amazon Purchase",
+    "date": "2025-04-29T00:00:00",
+    "description": "Online Purchase",
+    "category": "Uncategorized Transactions",
+    "base": 80,
+    "month": "April",
+    "week": "Week 5"
+  },
+  {
+    "account": "Credit Card: Target",
+    "date": "2025-03-22T00:00:00",
+    "description": "Online Purchase",
+    "category": "Uncategorized Transactions",
+    "base": 12,
+    "month": "March",
+    "week": "Week 4"
+  },
+  {
+    "account": "Credit Card: Target",
+    "date": "2025-03-02T00:00:00",
+    "description": "Miscellaneous",
+    "category": "Uncategorized Transactions",
+    "base": 111,
+    "month": "March",
+    "week": "Week 1"
+  },
+  {
+    "account": "Credit Card: Netflix",
+    "date": "2025-03-25T00:00:00",
+    "description": "Water Bill",
+    "category": "Utilities",
+    "base": 17,
+    "month": "March",
+    "week": "Week 4"
+  },
+  {
+    "account": "Savings: Cashback",
+    "date": "2025-03-19T00:00:00",
+    "description": "Salary",
+    "category": "Income",
+    "base": 355,
+    "month": "March",
+    "week": "Week 3"
+  },
+  {
+    "account": "Credit Card: Starbucks",
+    "date": "2025-04-15T00:00:00",
+    "description": "Food Delivery",
+    "category": "Dining",
+    "base": 57,
+    "month": "April",
+    "week": "Week 3"
+  },
+  {
+    "account": "Savings: Interest Credit",
+    "date": "2025-03-04T00:00:00",
+    "description": "Savings Interest",
+    "category": "Income",
+    "base": 353,
+    "month": "March",
+    "week": "Week 1"
+  },
+  {
+    "account": "Checking: Electricity Bill",
+    "date": "2025-03-29T00:00:00",
+    "description": "Mobile Recharge",
+    "category": "Utilities",
+    "base": 26,
+    "month": "March",
+    "week": "Week 5"
+  },
+  {
+    "account": "Credit Card: Spotify",
+    "date": "2025-04-18T00:00:00",
+    "description": "Electricity Bill",
+    "category": "Utilities",
+    "base": 81,
+    "month": "April",
+    "week": "Week 3"
+  },
+  {
+    "account": "Savings: Bonus Credit",
+    "date": "2025-03-31T00:00:00",
+    "description": "Cashback",
+    "category": "Income",
+    "base": 302,
+    "month": "March",
+    "week": "Week 5"
+  },
+  {
+    "account": "Credit Card: Netflix",
+    "date": "2025-04-08T00:00:00",
+    "description": "Water Bill",
+    "category": "Utilities",
+    "base": 13,
+    "month": "April",
+    "week": "Week 2"
+  },
+  {
+    "account": "Checking: Uber Eats",
+    "date": "2025-04-20T00:00:00",
+    "description": "Coffee Shop",
+    "category": "Dining",
+    "base": 29,
+    "month": "April",
+    "week": "Week 3"
+  },
+  {
+    "account": "Savings: Bonus Credit",
+    "date": "2025-04-14T00:00:00",
+    "description": "Bonus",
+    "category": "Income",
+    "base": 383,
+    "month": "April",
+    "week": "Week 2"
+  },
+  {
+    "account": "Savings: Cashback",
+    "date": "2025-03-16T00:00:00",
+    "description": "Bonus",
+    "category": "Income",
+    "base": 187,
+    "month": "March",
+    "week": "Week 3"
+  },
+  {
+    "account": "Checking: Electricity Bill",
+    "date": "2025-03-04T00:00:00",
+    "description": "Streaming Subscription",
+    "category": "Utilities",
+    "base": 69,
+    "month": "March",
+    "week": "Week 1"
+  },
+  {
+    "account": "Credit Card: Spotify",
+    "date": "2025-03-10T00:00:00",
+    "description": "Mobile Recharge",
+    "category": "Utilities",
+    "base": 71,
+    "month": "March",
+    "week": "Week 2"
+  },
+  {
+    "account": "Credit Card: Target",
+    "date": "2025-03-13T00:00:00",
+    "description": "Miscellaneous",
+    "category": "Uncategorized Transactions",
+    "base": 45,
+    "month": "March",
+    "week": "Week 2"
+  },
+  {
+    "account": "Savings: Interest Credit",
+    "date": "2025-04-28T00:00:00",
+    "description": "Cashback",
+    "category": "Income",
+    "base": 153,
+    "month": "April",
+    "week": "Week 4"
+  },
+  {
+    "account": "Credit Card: Starbucks",
+    "date": "2025-03-03T00:00:00",
+    "description": "Restaurant",
+    "category": "Dining",
+    "base": 88,
+    "month": "March",
+    "week": "Week 1"
+  },
+  {
+    "account": "Savings: Bonus Credit",
+    "date": "2025-04-28T00:00:00",
+    "description": "Savings Interest",
+    "category": "Income",
+    "base": 144,
+    "month": "April",
+    "week": "Week 4"
+  },
+  {
+    "account": "Credit Card: Netflix",
+    "date": "2025-03-30T00:00:00",
+    "description": "Internet Bill",
+    "category": "Utilities",
+    "base": 117,
+    "month": "March",
+    "week": "Week 5"
+  },
+  {
+    "account": "Credit Card: Spotify",
+    "date": "2025-03-19T00:00:00",
+    "description": "Internet Bill",
+    "category": "Utilities",
+    "base": 40,
+    "month": "March",
+    "week": "Week 3"
+  },
+  {
+    "account": "Credit Card: Starbucks",
+    "date": "2025-04-17T00:00:00",
+    "description": "Coffee Shop",
+    "category": "Dining",
+    "base": 113,
+    "month": "April",
+    "week": "Week 3"
+  },
+  {
+    "account": "Checking: Amazon Purchase",
+    "date": "2025-04-03T00:00:00",
+    "description": "Miscellaneous",
+    "category": "Uncategorized Transactions",
+    "base": 20,
+    "month": "April",
+    "week": "Week 1"
+  },
+  {
+    "account": "Credit Card: Netflix",
+    "date": "2025-04-16T00:00:00",
+    "description": "Internet Bill",
+    "category": "Utilities",
+    "base": 108,
+    "month": "April",
+    "week": "Week 3"
+  },
+  {
+    "account": "Checking: Local Bakery",
+    "date": "2025-04-18T00:00:00",
+    "description": "Restaurant",
+    "category": "Dining",
+    "base": 23,
+    "month": "April",
+    "week": "Week 3"
+  },
+  {
+    "account": "Checking: Uber Eats",
+    "date": "2025-03-02T00:00:00",
+    "description": "Bakery",
+    "category": "Dining",
+    "base": 38,
+    "month": "March",
+    "week": "Week 1"
+  },
+  {
+    "account": "Checking: Amazon Purchase",
+    "date": "2025-03-14T00:00:00",
+    "description": "Online Purchase",
+    "category": "Uncategorized Transactions",
+    "base": 106,
+    "month": "March",
+    "week": "Week 2"
+  },
+  {
+    "account": "Savings: Cashback",
+    "date": "2025-03-05T00:00:00",
+    "description": "Cashback",
+    "category": "Income",
+    "base": 329,
+    "month": "March",
+    "week": "Week 1"
+  },
+  {
+    "account": "Savings: Bonus Credit",
+    "date": "2025-03-15T00:00:00",
+    "description": "Savings Interest",
+    "category": "Income",
+    "base": 311,
+    "month": "March",
+    "week": "Week 3"
+  },
+  {
+    "account": "Savings: Interest Credit",
+    "date": "2025-04-22T00:00:00",
+    "description": "Bonus",
+    "category": "Income",
+    "base": 58,
+    "month": "April",
+    "week": "Week 4"
+  },
+  {
+    "account": "Savings: Bonus Credit",
+    "date": "2025-03-12T00:00:00",
+    "description": "Bonus",
+    "category": "Income",
+    "base": 346,
+    "month": "March",
+    "week": "Week 2"
+  },
+  {
+    "account": "Checking: Water Bill",
+    "date": "2025-04-16T00:00:00",
+    "description": "Electricity Bill",
+    "category": "Utilities",
+    "base": 38,
+    "month": "April",
+    "week": "Week 3"
+  },
+  {
+    "account": "Checking: Electricity Bill",
+    "date": "2025-03-31T00:00:00",
+    "description": "Internet Bill",
+    "category": "Utilities",
+    "base": 82,
+    "month": "March",
+    "week": "Week 5"
+  },
+  {
+    "account": "Savings: Cashback",
+    "date": "2025-03-28T00:00:00",
+    "description": "Salary",
+    "category": "Income",
+    "base": 268,
+    "month": "March",
+    "week": "Week 4"
+  },
+  {
+    "account": "Checking: Uber Eats",
+    "date": "2025-04-18T00:00:00",
+    "description": "Food Delivery",
+    "category": "Dining",
+    "base": 112,
+    "month": "April",
+    "week": "Week 3"
+  },
+  {
+    "account": "Credit Card: Target",
+    "date": "2025-03-18T00:00:00",
+    "description": "Grocery",
+    "category": "Uncategorized Transactions",
+    "base": 112,
+    "month": "March",
+    "week": "Week 3"
+  },
+  {
+    "account": "Credit Card: Target",
+    "date": "2025-04-07T00:00:00",
+    "description": "Online Purchase",
+    "category": "Uncategorized Transactions",
+    "base": 47,
+    "month": "April",
+    "week": "Week 1"
+  },
+  {
+    "account": "Checking: Water Bill",
+    "date": "2025-04-05T00:00:00",
+    "description": "Streaming Subscription",
+    "category": "Utilities",
+    "base": 54,
+    "month": "April",
+    "week": "Week 1"
+  },
+  {
+    "account": "Credit Card: Best Buy",
+    "date": "2025-04-20T00:00:00",
+    "description": "Grocery",
+    "category": "Uncategorized Transactions",
+    "base": 38,
+    "month": "April",
+    "week": "Week 3"
+  },
+  {
+    "account": "Savings: Cashback",
+    "date": "2025-03-28T00:00:00",
+    "description": "Bonus",
+    "category": "Income",
+    "base": 466,
+    "month": "March",
+    "week": "Week 4"
+  },
+  {
+    "account": "Credit Card: Starbucks",
+    "date": "2025-04-05T00:00:00",
+    "description": "Coffee Shop",
+    "category": "Dining",
+    "base": 55,
+    "month": "April",
+    "week": "Week 1"
+  },
+  {
+    "account": "Checking: Uber Eats",
+    "date": "2025-04-28T00:00:00",
+    "description": "Coffee Shop",
+    "category": "Dining",
+    "base": 29,
+    "month": "April",
+    "week": "Week 4"
+  },
+  {
+    "account": "Credit Card: Target",
+    "date": "2025-04-21T00:00:00",
+    "description": "Refund",
+    "category": "Uncategorized Transactions",
+    "base": 76,
+    "month": "April",
+    "week": "Week 3"
+  },
+  {
+    "account": "Savings: Interest Credit",
+    "date": "2025-04-15T00:00:00",
+    "description": "Bonus",
+    "category": "Income",
+    "base": 205,
+    "month": "April",
+    "week": "Week 3"
+  },
+  {
+    "account": "Savings: Cashback",
+    "date": "2025-03-04T00:00:00",
+    "description": "Cashback",
+    "category": "Income",
+    "base": 360,
+    "month": "March",
+    "week": "Week 1"
+  },
+  {
+    "account": "Credit Card: Spotify",
+    "date": "2025-03-19T00:00:00",
+    "description": "Streaming Subscription",
+    "category": "Utilities",
+    "base": 6,
+    "month": "March",
+    "week": "Week 3"
+  },
+  {
+    "account": "Savings: Interest Credit",
+    "date": "2025-04-15T00:00:00",
+    "description": "Bonus",
+    "category": "Income",
+    "base": 111,
+    "month": "April",
+    "week": "Week 3"
+  },
+  {
+    "account": "Savings: Bonus Credit",
+    "date": "2025-03-22T00:00:00",
+    "description": "Savings Interest",
+    "category": "Income",
+    "base": 269,
+    "month": "March",
+    "week": "Week 4"
+  },
+  {
+    "account": "Credit Card: Starbucks",
+    "date": "2025-03-17T00:00:00",
+    "description": "Coffee Shop",
+    "category": "Dining",
+    "base": 22,
+    "month": "March",
+    "week": "Week 3"
+  },
+  {
+    "account": "Credit Card: Netflix",
+    "date": "2025-03-19T00:00:00",
+    "description": "Electricity Bill",
+    "category": "Utilities",
+    "base": 58,
+    "month": "March",
+    "week": "Week 3"
+  },
+  {
+    "account": "Checking: Uber Eats",
+    "date": "2025-03-14T00:00:00",
+    "description": "Restaurant",
+    "category": "Dining",
+    "base": 106,
+    "month": "March",
+    "week": "Week 2"
+  },
+  {
+    "account": "Checking: Local Bakery",
+    "date": "2025-04-14T00:00:00",
+    "description": "Restaurant",
+    "category": "Dining",
+    "base": 99,
+    "month": "April",
+    "week": "Week 2"
+  },
+  {
+    "account": "Savings: Interest Credit",
+    "date": "2025-04-10T00:00:00",
+    "description": "Cashback",
+    "category": "Income",
+    "base": 255,
+    "month": "April",
+    "week": "Week 2"
+  },
+  {
+    "account": "Checking: Electricity Bill",
+    "date": "2025-03-28T00:00:00",
+    "description": "Water Bill",
+    "category": "Utilities",
+    "base": 73,
+    "month": "March",
+    "week": "Week 4"
+  },
+  {
+    "account": "Checking: Uber Eats",
+    "date": "2025-03-28T00:00:00",
+    "description": "Food Delivery",
+    "category": "Dining",
+    "base": 20,
+    "month": "March",
+    "week": "Week 4"
+  },
+  {
+    "account": "Checking: Water Bill",
+    "date": "2025-04-20T00:00:00",
+    "description": "Water Bill",
+    "category": "Utilities",
+    "base": 91,
+    "month": "April",
+    "week": "Week 3"
+  },
+  {
+    "account": "Checking: Local Bakery",
+    "date": "2025-03-11T00:00:00",
+    "description": "Food Delivery",
+    "category": "Dining",
+    "base": 41,
+    "month": "March",
+    "week": "Week 2"
+  },
+  {
+    "account": "Savings: Cashback",
+    "date": "2025-03-18T00:00:00",
+    "description": "Savings Interest",
+    "category": "Income",
+    "base": 160,
+    "month": "March",
+    "week": "Week 3"
+  },
+  {
+    "account": "Savings: Interest Credit",
+    "date": "2025-04-23T00:00:00",
+    "description": "Salary",
+    "category": "Income",
+    "base": 460,
+    "month": "April",
+    "week": "Week 4"
+  }
+]
