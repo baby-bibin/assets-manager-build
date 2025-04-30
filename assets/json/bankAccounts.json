@@ -1,0 +1,79 @@
+[
+  {
+    "type": "fixed",
+    "bank": "First Abu Dhabi Bank",
+    "bankId": "fab",
+    "openedDate": "2024-03-24T10:10:00",
+    "valueLabel": [
+      { "label": "Invested", "value": 9500, "type": "currency" },
+      { "label": "Interest Earned", "value": 500, "type": "currency" },
+      { "label": "Maturity", "value": "2028-03-24T10:10:00", "type": "date" }
+    ]
+  },
+  {
+    "type": "savings",
+    "bank": "Standard Chartered",
+    "bankId": "sc",
+    "openedDate": "2023-04-01T16:00:00",
+    "valueLabel": [
+      { "label": "Balance", "value": 32000, "type": "currency" },
+      { "label": "Interest Earned", "value": 1600, "type": "currency" },
+      {
+        "label": "Last Credited",
+        "value": "2025-04-01T00:00:00",
+        "type": "date"
+      }
+    ]
+  },
+  {
+    "type": "current",
+    "bank": "HSBC Middle East",
+    "bankId": "hsbc",
+    "openedDate": "2023-06-15T09:00:00",
+    "valueLabel": [
+      { "label": "Monthly Deposit", "value": 1000, "type": "currency" },
+      { "label": "Total Deposited", "value": 18000, "type": "currency" },
+      { "label": "Interest Earned", "value": 900, "type": "currency" },
+      { "label": "Maturity", "value": "2025-06-15T09:00:00", "type": "date" }
+    ]
+  },
+
+  {
+    "type": "fixed",
+    "bank": "Emirates NBD",
+    "bankId": "nbd",
+    "openedDate": "2021-12-01T12:00:00",
+    "valueLabel": [
+      { "label": "Invested", "value": 15000, "type": "currency" },
+      { "label": "Interest Earned", "value": 1800, "type": "currency" },
+      { "label": "Maturity", "value": "2026-12-01T12:00:00", "type": "date" }
+    ]
+  },
+  {
+    "type": "current",
+    "bank": "Citibank UAE",
+    "bankId": "citi",
+    "openedDate": "2022-09-05T08:45:00",
+    "valueLabel": [
+      { "label": "Monthly Deposit", "value": 1500, "type": "currency" },
+      { "label": "Total Deposited", "value": 45000, "type": "currency" },
+      { "label": "Interest Earned", "value": 2200, "type": "currency" },
+      { "label": "Maturity", "value": "2025-09-05T08:45:00", "type": "date" }
+    ]
+  },
+  {
+    "type": "savings",
+    "bank": "Mashreq Bank",
+    "bankId": "mashreq",
+    "openedDate": "2022-01-10T14:30:00",
+    "valueLabel": [
+      { "label": "Balance", "value": 25000, "type": "currency" },
+      { "label": "Interest Earned", "value": 1250, "type": "currency" },
+      {
+        "label": "Last Credited",
+        "value": "2025-03-10T00:00:00",
+        "type": "date"
+      }
+    ]
+  }
+]

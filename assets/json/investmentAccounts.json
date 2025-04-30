@@ -1,0 +1,78 @@
+[
+  {
+    "type": "Fixed",
+    "account": "Standard Chartered",
+    "accountId": "sc",
+    "openedDate": "2024-03-24T10:10:00",
+    "valueLabel": [
+      { "label": "Invested", "value": 9500, "type": "currency" },
+      { "label": "Interest Earned", "value": 500, "type": "currency" },
+      { "label": "Maturity", "value": "2028-03-24T10:10:00", "type": "date" }
+    ]
+  },
+  {
+    "type": "Mutual Fund",
+    "account": "Vanguard Group",
+    "accountId": "vanguard",
+    "openedDate": "2023-04-01T16:00:00",
+    "valueLabel": [
+      { "label": "NAV Value", "value": 32000, "type": "currency" },
+      { "label": "Dividends Earned", "value": 1600, "type": "currency" },
+      {
+        "label": "Last Dividend Date",
+        "value": "2025-04-01T00:00:00",
+        "type": "date"
+      }
+    ]
+  },
+  {
+    "type": "Bond",
+    "account": "Franklin Templeton",
+    "accountId": "franklin",
+    "openedDate": "2023-06-15T09:00:00",
+    "valueLabel": [
+      { "label": "Coupon Payment", "value": 1000, "type": "currency" },
+      { "label": "Total Investment", "value": 18000, "type": "currency" },
+      { "label": "Coupon Earned", "value": 900, "type": "currency" },
+      { "label": "Maturity", "value": "2025-06-15T09:00:00", "type": "date" }
+    ]
+  },
+  {
+    "type": "Fixed",
+    "account": "First Abu Dhabi Bank",
+    "accountId": "fab",
+    "openedDate": "2021-12-01T12:00:00",
+    "valueLabel": [
+      { "label": "Invested", "value": 15000, "type": "currency" },
+      { "label": "Interest Earned", "value": 1800, "type": "currency" },
+      { "label": "Maturity", "value": "2026-12-01T12:00:00", "type": "date" }
+    ]
+  },
+  {
+    "type": "Bond",
+    "account": "Goldman Sachs",
+    "accountId": "goldmansachs",
+    "openedDate": "2022-09-05T08:45:00",
+    "valueLabel": [
+      { "label": "Coupon Payment", "value": 1500, "type": "currency" },
+      { "label": "Total Investment", "value": 45000, "type": "currency" },
+      { "label": "Coupon Earned", "value": 2200, "type": "currency" },
+      { "label": "Maturity", "value": "2025-09-05T08:45:00", "type": "date" }
+    ]
+  },
+  {
+    "type": "Mutual Fund",
+    "account": "Fidelity Investments",
+    "accountId": "fidelity",
+    "openedDate": "2022-01-10T14:30:00",
+    "valueLabel": [
+      { "label": "NAV Value", "value": 25000, "type": "currency" },
+      { "label": "Dividends Earned", "value": 1250, "type": "currency" },
+      {
+        "label": "Last Dividend Date",
+        "value": "2025-03-10T00:00:00",
+        "type": "date"
+      }
+    ]
+  }
+]
