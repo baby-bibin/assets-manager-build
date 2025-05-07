@@ -1,0 +1,68 @@
+[
+  {
+    "type": "Electronics",
+    "itemName": "MacBook Pro",
+    "itemId": "elec001",
+    "purchaseDate": "2016-12-10T08:30:00",
+    "valueLabel": [
+      { "label": "Purchase Price", "value": 2500, "type": "currency" },
+      { "label": "Current Market Value", "value": 1200, "type": "currency" },
+      { "label": "Warranty (years)", "value": 3, "type": "duration" }
+    ]
+  },
+  {
+    "type": "Furniture",
+    "itemName": "Leather Sofa",
+    "itemId": "furn001",
+    "purchaseDate": "2017-03-12T14:30:00",
+    "valueLabel": [
+      { "label": "Purchase Price", "value": 1500, "type": "currency" },
+      { "label": "Current Market Value", "value": 800, "type": "currency" },
+      { "label": "Condition", "value": "Good", "type": "text" }
+    ]
+  },
+  {
+    "type": "Real Estate",
+    "itemName": "Beach House",
+    "itemId": "estate001",
+    "purchaseDate": "2018-09-20T09:00:00",
+    "valueLabel": [
+      { "label": "Purchase Price", "value": 500000, "type": "currency" },
+      { "label": "Current Market Value", "value": 600000, "type": "currency" },
+      { "label": "Square Footage", "value": 2500, "type": "area" }
+    ]
+  },
+  {
+    "type": "Appliances",
+    "itemName": "Refrigerator",
+    "itemId": "appl001",
+    "purchaseDate": "2019-08-01T11:00:00",
+    "valueLabel": [
+      { "label": "Purchase Price", "value": 1200, "type": "currency" },
+      { "label": "Current Market Value", "value": 700, "type": "currency" },
+      { "label": "Energy Rating", "value": "A++", "type": "text" }
+    ]
+  },
+  {
+    "type": "Jewelry",
+    "itemName": "Gold Necklace",
+    "itemId": "jewel001",
+    "purchaseDate": "2020-05-15T10:00:00",
+    "valueLabel": [
+      { "label": "Purchase Price", "value": 3000, "type": "currency" },
+      { "label": "Current Market Value", "value": 3500, "type": "currency" },
+      { "label": "Weight (grams)", "value": 50, "type": "weight" }
+    ]
+  },
+  {
+    "type": "Collectibles",
+    "itemName": "Vintage Vinyl Record",
+    "itemId": "coll001",
+    "purchaseDate": "2021-02-25T15:45:00",
+    "valueLabel": [
+      { "label": "Purchase Price", "value": 100, "type": "currency" },
+      { "label": "Current Market Value", "value": 500, "type": "currency" },
+      { "label": "Condition", "value": "Excellent", "type": "text" }
+    ]
+  }
+]

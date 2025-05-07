@@ -1,0 +1,116 @@
+[
+  {
+    "type": "Residential",
+    "propertyName": "Palm Jumeirah Villa",
+    "propertyId": "pjv001",
+    "purchaseDate": "2020-05-15T10:00:00",
+    "valueLabel": [
+      { "label": "Purchase Price", "value": 5000000, "type": "currency" },
+      { "label": "Current Market Value", "value": 6500000, "type": "currency" },
+      {
+        "label": "Last Renovation Date",
+        "value": "2023-01-10T00:00:00",
+        "type": "date"
+      },
+      {
+        "label": "Rental Income (Monthly)",
+        "value": 18000,
+        "type": "currency"
+      }
+    ]
+  },
+  {
+    "type": "Commercial",
+    "propertyName": "Downtown Office Tower",
+    "propertyId": "dot002",
+    "purchaseDate": "2018-09-20T09:00:00",
+    "valueLabel": [
+      { "label": "Purchase Price", "value": 12000000, "type": "currency" },
+      {
+        "label": "Current Market Value",
+        "value": 14500000,
+        "type": "currency"
+      },
+      {
+        "label": "Annual Rental Income",
+        "value": 950000,
+        "type": "currency"
+      }
+    ]
+  },
+  {
+    "type": "Industrial",
+    "propertyName": "Jebel Ali Warehouse Complex",
+    "propertyId": "jaw003",
+    "purchaseDate": "2017-03-12T14:30:00",
+    "valueLabel": [
+      { "label": "Purchase Price", "value": 8000000, "type": "currency" },
+      { "label": "Current Market Value", "value": 9300000, "type": "currency" },
+      {
+        "label": "Last Renovation Date",
+        "value": "2021-11-20T00:00:00",
+        "type": "date"
+      },
+      {
+        "label": "Insurance Cost",
+        "value": 95000,
+        "type": "currency"
+      }
+    ]
+  },
+  {
+    "type": "Land",
+    "propertyName": "Al Ain Agricultural Plot",
+    "propertyId": "aap004",
+    "purchaseDate": "2019-08-01T11:00:00",
+    "valueLabel": [
+      { "label": "Purchase Price", "value": 1500000, "type": "currency" },
+      { "label": "Current Market Value", "value": 1900000, "type": "currency" },
+      {
+        "label": "Labor Cost (Annual)",
+        "value": 40000,
+        "type": "currency"
+      }
+    ]
+  },
+  {
+    "type": "Residential",
+    "propertyName": "Dubai Marina Apartment",
+    "propertyId": "dma005",
+    "purchaseDate": "2021-02-25T15:45:00",
+    "valueLabel": [
+      { "label": "Purchase Price", "value": 2300000, "type": "currency" },
+      { "label": "Current Market Value", "value": 2800000, "type": "currency" },
+      {
+        "label": "Rental Income (Monthly)",
+        "value": 9500,
+        "type": "currency"
+      },
+      {
+        "label": "Property Tax",
+        "value": 20000,
+        "type": "currency"
+      }
+    ]
+  },
+  {
+    "type": "Commercial",
+    "propertyName": "Tech Park Retail Space",
+    "propertyId": "tpr006",
+    "purchaseDate": "2016-12-10T08:30:00",
+    "valueLabel": [
+      { "label": "Purchase Price", "value": 7000000, "type": "currency" },
+      { "label": "Current Market Value", "value": 8600000, "type": "currency" },
+      {
+        "label": "Rental Income (Annually)",
+        "value": 420000,
+        "type": "currency"
+      },
+      {
+        "label": "Maintenance Expense",
+        "value": 75000,
+        "type": "currency"
+      }
+    ]
+  }
+]
