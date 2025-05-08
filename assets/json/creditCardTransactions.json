@@ -1,0 +1,92 @@
+[
+  {
+    "account": "Credit Card: Netflix",
+    "date": "2025-03-30T20:15:00",
+    "description": "Monthly subscription",
+    "category": "Utilities",
+    "base": 16,
+    "amount": 16,
+    "month": "March"
+  },
+  {
+    "account": "Credit Card: Spotify",
+    "date": "2025-04-25T21:00:00",
+    "description": "Music subscription",
+    "category": "Utilities",
+    "base": 10,
+    "amount": 10,
+    "month": "April"
+  },
+  {
+    "account": "Credit Card: Apple Store",
+    "date": "2025-05-22T14:10:00",
+    "description": "iCloud storage plan",
+    "category": "Utilities",
+    "base": 3,
+    "amount": 3,
+    "month": "May"
+  },
+  {
+    "account": "Credit Card: Starbucks",
+    "date": "2025-03-26T09:40:00",
+    "description": "Coffee with friends",
+    "category": "Dining",
+    "base": 13,
+    "amount": 13,
+    "month": "March"
+  },
+  {
+    "account": "Credit Card: Target",
+    "date": "2025-04-21T12:30:00",
+    "description": "Household items",
+    "category": "Uncategorized Transactions",
+    "base": 63,
+    "amount": 63,
+    "month": "April"
+  },
+  {
+    "account": "Credit Card: Audible",
+    "date": "2025-05-17T22:05:00",
+    "description": "Audiobook subscription",
+    "category": "Utilities",
+    "base": 15,
+    "amount": 15,
+    "month": "May"
+  },
+  {
+    "account": "Credit Card: Best Buy",
+    "date": "2025-03-24T10:10:00",
+    "description": "Bluetooth speaker",
+    "category": "Uncategorized Transactions",
+    "base": 85,
+    "amount": 85,
+    "month": "March"
+  },
+  {
+    "account": "Credit Card: Amazon",
+    "date": "2025-04-28T18:45:00",
+    "description": "Online shopping",
+    "category": "Shopping",
+    "base": 120,
+    "amount": 120,
+    "month": "April"
+  },
+  {
+    "account": "Credit Card: Uber",
+    "date": "2025-05-29T22:30:00",
+    "description": "Ride to airport",
+    "category": "Transportation",
+    "base": 25,
+    "amount": 25,
+    "month": "May"
+  },
+  {
+    "account": "Credit Card: Walmart",
+    "date": "2025-03-20T15:00:00",
+    "description": "Groceries",
+    "category": "Groceries",
+    "base": 45,
+    "amount": 45,
+    "month": "March"
+  }
+]

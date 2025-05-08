@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/assets-manager-build/static/css/main.7699c255.css",
-    "main.js": "/assets-manager-build/static/js/main.9ba842eb.js",
+    "main.css": "/assets-manager-build/static/css/main.bd85419b.css",
+    "main.js": "/assets-manager-build/static/js/main.3b3db8f9.js",
     "static/js/453.745fd38d.chunk.js": "/assets-manager-build/static/js/453.745fd38d.chunk.js",
     "index.html": "/assets-manager-build/index.html",
-    "main.7699c255.css.map": "/assets-manager-build/static/css/main.7699c255.css.map",
-    "main.9ba842eb.js.map": "/assets-manager-build/static/js/main.9ba842eb.js.map",
+    "main.bd85419b.css.map": "/assets-manager-build/static/css/main.bd85419b.css.map",
+    "main.3b3db8f9.js.map": "/assets-manager-build/static/js/main.3b3db8f9.js.map",
     "453.745fd38d.chunk.js.map": "/assets-manager-build/static/js/453.745fd38d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7699c255.css",
-    "static/js/main.9ba842eb.js"
+    "static/css/main.bd85419b.css",
+    "static/js/main.3b3db8f9.js"
   ]
 }
