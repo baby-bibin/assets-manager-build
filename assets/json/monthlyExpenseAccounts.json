@@ -1,0 +1,134 @@
+[
+  {
+    "type": "Rent",
+    "expenseName": "Dubai Marina Apartment",
+    "nextPaymentDate": "2020-05-15T10:00:00",
+    "valueLabel": [
+      {
+        "label": "Rent",
+        "value": 1800,
+        "type": "currency"
+      },
+      {
+        "label": "Maintenance",
+        "value": 200,
+        "type": "currency"
+      },
+      {
+        "label": "Utility Bills",
+        "value": 150,
+        "type": "currency"
+      }
+    ]
+  },
+  {
+    "type": "Food and Groceries",
+    "expenseName": "Monthly Groceries",
+    "nextPaymentDate": "2020-05-10T10:00:00",
+    "valueLabel": [
+      {
+        "label": "Groceries",
+        "value": 300,
+        "type": "currency"
+      },
+      {
+        "label": "Dining Out",
+        "value": 100,
+        "type": "currency"
+      },
+      {
+        "label": "Snacks",
+        "value": 50,
+        "type": "currency"
+      }
+    ]
+  },
+  {
+    "type": "Subscription",
+    "expenseName": "Netflix Subscription",
+    "nextPaymentDate": "2020-05-20T10:00:00",
+    "valueLabel": [
+      {
+        "label": "Netflix",
+        "value": 15,
+        "type": "currency"
+      },
+      {
+        "label": "Amazon Prime",
+        "value": 12,
+        "type": "currency"
+      },
+      {
+        "label": "Spotify",
+        "value": 10,
+        "type": "currency"
+      }
+    ]
+  },
+  {
+    "type": "Utility",
+    "expenseName": "Water Bills",
+    "nextPaymentDate": "2020-05-18T10:00:00",
+    "valueLabel": [
+      {
+        "label": "Water",
+        "value": 50,
+        "type": "currency"
+      },
+      {
+        "label": "Sewerage",
+        "value": 20,
+        "type": "currency"
+      },
+      {
+        "label": "Garbage Collection",
+        "value": 15,
+        "type": "currency"
+      }
+    ]
+  },
+  {
+    "type": "Salary",
+    "expenseName": "Maid Salary",
+    "nextPaymentDate": "2020-05-25T10:00:00",
+    "valueLabel": [
+      {
+        "label": "Maid Salary",
+        "value": 500,
+        "type": "currency"
+      },
+      {
+        "label": "Bonus",
+        "value": 50,
+        "type": "currency"
+      },
+      {
+        "label": "Transportation",
+        "value": 30,
+        "type": "currency"
+      }
+    ]
+  },
+  {
+    "type": "Utility",
+    "expenseName": "WiFi Bill",
+    "nextPaymentDate": "2020-05-12T10:00:00",
+    "valueLabel": [
+      {
+        "label": "WiFi",
+        "value": 100,
+        "type": "currency"
+      },
+      {
+        "label": "Router Rental",
+        "value": 10,
+        "type": "currency"
+      },
+      {
+        "label": "Installation Fees",
+        "value": 20,
+        "type": "currency"
+      }
+    ]
+  }
+]
